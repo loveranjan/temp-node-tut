@@ -28,3 +28,4 @@ console.log(newItems)
 // git remote add origin https://github.com/loveranjan/temp-node-tut.git
 // git branch -M main
 // git push -u origin main
+// to update run 1. init, 2. add, 3. commit
