@@ -1,6 +1,6 @@
 // npm - global command, comes with node
 // npm --version
-// npm -v
+// npm --v
 
 // local dependency - use it only in this particular project
 // npm i <packageName>
